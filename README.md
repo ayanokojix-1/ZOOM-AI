@@ -1,4 +1,4 @@
-# zoom-automation (Telegram + Zoom + Gemini)
+# Zoom-AI (Telegram + Zoom + Gemini)
 
 Telegram bot (webhook, deployable on Vercel) that schedules and manages Zoom meetings, driven by Gemini.
 The customer chats in plain language ("book a team call tomorrow at 3pm", "move it to 5pm", "cancel Friday's meeting"); deleting a meeting only happens after they tap a Confirm button.
