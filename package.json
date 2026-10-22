@@ -1,0 +1,17 @@
+{
+  "name": "zoom-automation",
+  "version": "1.0.0",
+  "main": "api/webhook.js",
+  "scripts": {
+    "set-webhook": "node scripts/set-webhook.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Telegram bot that manages Zoom meetings (Server-to-Server OAuth), powered by Gemini",
+  "dependencies": {
+    "@google/genai": "^2.17.0",
+    "dotenv": "^18.0.4",
+    "pg": "^8.23.0"
+  }
+}
